@@ -1,0 +1,1 @@
+La carpeta de evolución contiene, tal como el nombre dice, registros de cómo va evolucionando el sistema en cada versión.

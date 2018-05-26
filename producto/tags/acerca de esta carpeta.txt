@@ -1,0 +1,2 @@
+Contiene todos tags que se van estableciendo a lo largo del avance del producto.
+Un tag es una "marca", un puntero a un commit en específico, para separar versiones o simplemente dejar una marca a la cual se puede volver.

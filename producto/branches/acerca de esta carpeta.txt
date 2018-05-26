@@ -1,0 +1,2 @@
+Contiene branches (ramas).
+Una rama es simplemente una línea de desarrollo distinta de la principal, es como un master paralelo, donde se puede trabajar sin afectar a la rama principal.

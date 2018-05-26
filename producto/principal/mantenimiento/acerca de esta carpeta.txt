@@ -1,0 +1,1 @@
+La carpeta de mantenimiento contiene todo lo relacionado al desarrollo del producto en sí, y todo lo necesario para dar soporte a dicho desarrollo.

@@ -1,0 +1,9 @@
+Contendrá todos los releases.
+Un release es una versión que se distribuye a los clientes. 
+Cada release incluye nueva funcionalidad o está concebida para diferentes plataformas de hardware.
+Un release del sistema no es sólo el código ejecutable del sistema. Las entregas tambien incluyen: 
+Archivos de configuración 
+Los archivos de datos 
+El programa de instalacion 
+La documentación electronica 
+El embalaje y la publicidad asociados.

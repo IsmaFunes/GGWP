@@ -1,0 +1,1 @@
+Es la parte principal. La línea de desarrollo main o "trunk", donde subiremos todos los cambios, y donde se encontrará la aplicación y todo lo correspondiente a ella.
